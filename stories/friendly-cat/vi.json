@@ -1,1 +1,15 @@
-
+{
+  "title": "Chú Mèo Tốt Bụng",
+  "description": "Câu chuyện về một chú mèo tốt bụng hay giúp đỡ mọi người",
+  "content": [
+    "Ngày xửa ngày xưa, có một chú mèo tốt bụng...",
+    "Chú mèo rất thích giúp đỡ những con vật khác..."
+  ],
+  "readingTime": "5",
+  "ageRange": "3-6",
+  "tags": [
+    "động vật",
+    "tình bạn",
+    "giúp đỡ"
+  ]
+}

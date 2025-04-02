@@ -1,1 +1,18 @@
-
+{
+  "title": "The Hundred-Knot Bamboo",
+  "description": "A Vietnamese folktale about perseverance and justice.",
+  "content": [
+    "Once upon a time, there was a poor but hardworking young man who worked for a rich landowner.",
+    "The landowner promised to give him his daughter's hand in marriage if he worked hard.",
+    "However, when the time came, the landowner went back on his word and tricked the young man.",
+    "With the help of a kind magician, the young man obtained a magical bamboo with a hundred knots.",
+    "He used the magic to teach the greedy landowner a lesson and finally married the girl he loved."
+  ],
+  "readingTime": "10",
+  "ageRange": "5-10",
+  "tags": [
+    "vietnamese",
+    "folktale",
+    "justice"
+  ]
+}

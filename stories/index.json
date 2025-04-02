@@ -1,170 +1,226 @@
 [
-    {
-      "id": "little-red",
-      "thumbnail": "/images/little-red.png",
-      "titles": {
-        "en": "Little Red Riding Hood",
-        "vi": "Cô Bé Quàng Khăn Đỏ"
-      },
-      "descriptions": {
-        "en": "A classic tale about a little girl's journey through the woods",
-        "vi": "Câu chuyện cổ tích về hành trình của cô bé trong khu rừng"
-      },
-      "readingTimes": {
-        "en": "7",
-        "vi": "7"
-      },
-      "ageRanges": {
-        "en": "4-8",
-        "vi": "4-8"
-      },
-      "tags": {
-        "en": ["classic", "adventure", "fairy tale"],
-        "vi": ["cổ tích", "phiêu lưu", "truyện cổ tích"]
-      }
+  {
+    "id": "little-reds",
+    "thumbnail": "little-red.png",
+    "titles": {
+      "en": "Little Red Riding Hood",
+      "vi": "Cô Bé Quàng Khăn Đỏ"
     },
-    {
-      "id": "friendly-cat",
-      "thumbnail": "/images/friendly-cat.png",
-      "titles": {
-        "en": "The Friendly Cat",
-        "vi": "Chú Mèo Tốt Bụng"
-      },
-      "descriptions": {
-        "en": "A story about a friendly cat who helps others",
-        "vi": "Câu chuyện về một chú mèo tốt bụng hay giúp đỡ mọi người"
-      },
-      "readingTimes": {
-        "en": "5",
-        "vi": "5"
-      },
-      "ageRanges": {
-        "en": "3-6",
-        "vi": "3-6"
-      },
-      "tags": {
-        "en": ["animals", "friendship", "helping"],
-        "vi": ["động vật", "tình bạn", "giúp đỡ"]
-      }
+    "descriptions": {
+      "en": "A classic tale about a little girl's journey through the woods",
+      "vi": "Câu chuyện cổ tích về hành trình của cô bé trong khu rừng"
     },
-    {
-      "id": "three-pigs",
-      "thumbnail": "/images/three-pigs.png",
-      "titles": {
-        "en": "The Three Little Pigs",
-        "vi": "Ba Chú Heo Con"
-      },
-      "descriptions": {
-        "en": "A tale about three pig brothers and their houses",
-        "vi": "Câu chuyện về ba anh em heo con và những ngôi nhà của chúng"
-      },
-      "readingTimes": {
-        "en": "8",
-        "vi": "8"
-      },
-      "ageRanges": {
-        "en": "3-7",
-        "vi": "3-7"
-      },
-      "tags": {
-        "en": ["classic", "animals", "hard work"],
-        "vi": ["cổ tích", "động vật", "chăm chỉ"]
-      }
+    "readingTimes": {
+      "en": "7",
+      "vi": "7"
     },
-    {
-      "id": "golden-fish",
-      "thumbnail": "/images/golden-fish.png",
-      "titles": {
-        "en": "The Magic Golden Fish",
-        "vi": "Chú Cá Vàng Thần Kỳ"
-      },
-      "descriptions": {
-        "en": "A story about a fisherman who catches a magical fish",
-        "vi": "Câu chuyện về người đánh cá bắt được một chú cá thần kỳ"
-      },
-      "readingTimes": {
-        "en": "6",
-        "vi": "6"
-      },
-      "ageRanges": {
-        "en": "4-8",
-        "vi": "4-8"
-      },
-      "tags": {
-        "en": ["magic", "ocean", "wishes"],
-        "vi": ["phép thuật", "đại dương", "điều ước"]
-      }
+    "ageRanges": {
+      "en": "4-8",
+      "vi": "4-8"
     },
-    {
-      "id": "moon-rabbit",
-      "thumbnail": "/images/moon-rabbit.png",
-      "titles": {
-        "en": "The Rabbit on the Moon",
-        "vi": "Chú Thỏ Ngọc Trên Cung Trăng"
-      },
-      "descriptions": {
-        "en": "An Asian folktale about the rabbit who lives on the moon",
-        "vi": "Truyện dân gian Á Đông về chú thỏ sống trên mặt trăng"
-      },
-      "readingTimes": {
-        "en": "5",
-        "vi": "5"
-      },
-      "ageRanges": {
-        "en": "4-9",
-        "vi": "4-9"
-      },
-      "tags": {
-        "en": ["folktale", "asian", "kindness"],
-        "vi": ["truyện dân gian", "châu á", "tốt bụng"]
-      }
-    },
-    {
-      "id": "hundred-knot-bamboo",
-      "thumbnail": "/images/hundred-knot-bamboo.png",
-      "titles": {
-        "en": "The Hundred-Knot Bamboo",
-        "vi": "Cây Tre Trăm Đốt"
-      },
-      "descriptions": {
-        "en": "A Vietnamese folktale about perseverance and justice.",
-        "vi": "Truyện dân gian Việt Nam về sự kiên trì và công lý."
-      },
-      "readingTimes": {
-        "en": "10",
-        "vi": "10"
-      },
-      "ageRanges": {
-        "en": "5-10",
-        "vi": "5-10"
-      },
-      "tags": {
-        "en": ["vietnamese", "folktale", "justice"],
-        "vi": ["việt nam", "truyện dân gian", "công lý"]
-      }
-    },
-    {
-      "id": "sheep-and-wolf",
-      "thumbnail": "/images/sheep-and-wolf.png",
-      "titles": {
-        "en": "The Sheep and the Wolf",
-        "vi": "Cậu Bé Chăn Cừu"
-      },
-      "descriptions": {
-        "en": "A classic tale about a sheep and a wolf",
-        "vi": "Câu chuyện cổ tích về cậu bé chăn cừu"
-      },
-      "readingTimes": {
-        "en": "7",
-        "vi": "7"
-      },
-      "ageRanges": {
-        "en": "4-8",
-        "vi": "4-8"
-      },
-      "tags": {
-        "en": ["classic", "adventure", "fairy tale"],
-        "vi": ["cổ tích", "phiêu lưu", "truyện cổ tích"]
-      }
+    "tags": {
+      "en": [
+        "classic",
+        "adventure",
+        "fairy tale"
+      ],
+      "vi": [
+        "cổ tích",
+        "phiêu lưu",
+        "truyện cổ tích"
+      ]
     }
-  ]
+  },
+  {
+    "id": "friendly-cat",
+    "thumbnail": "/images/friendly-cat.png",
+    "titles": {
+      "en": "The Friendly Cat",
+      "vi": "Chú Mèo Tốt Bụng"
+    },
+    "descriptions": {
+      "en": "A story about a friendly cat who helps others",
+      "vi": "Câu chuyện về một chú mèo tốt bụng hay giúp đỡ mọi người"
+    },
+    "readingTimes": {
+      "en": "5",
+      "vi": "5"
+    },
+    "ageRanges": {
+      "en": "3-6",
+      "vi": "3-6"
+    },
+    "tags": {
+      "en": [
+        "animals",
+        "friendship",
+        "helping"
+      ],
+      "vi": [
+        "động vật",
+        "tình bạn",
+        "giúp đỡ"
+      ]
+    }
+  },
+  {
+    "id": "three-pigs",
+    "thumbnail": "/images/three-pigs.png",
+    "titles": {
+      "en": "The Three Little Pigs",
+      "vi": "Ba Chú Heo Con"
+    },
+    "descriptions": {
+      "en": "A tale about three pig brothers and their houses",
+      "vi": "Câu chuyện về ba anh em heo con và những ngôi nhà của chúng"
+    },
+    "readingTimes": {
+      "en": "8",
+      "vi": "8"
+    },
+    "ageRanges": {
+      "en": "3-7",
+      "vi": "3-7"
+    },
+    "tags": {
+      "en": [
+        "classic",
+        "animals",
+        "hard work"
+      ],
+      "vi": [
+        "cổ tích",
+        "động vật",
+        "chăm chỉ"
+      ]
+    }
+  },
+  {
+    "id": "golden-fish",
+    "thumbnail": "/images/golden-fish.png",
+    "titles": {
+      "en": "The Magic Golden Fish",
+      "vi": "Chú Cá Vàng Thần Kỳ"
+    },
+    "descriptions": {
+      "en": "A story about a fisherman who catches a magical fish",
+      "vi": "Câu chuyện về người đánh cá bắt được một chú cá thần kỳ"
+    },
+    "readingTimes": {
+      "en": "6",
+      "vi": "6"
+    },
+    "ageRanges": {
+      "en": "4-8",
+      "vi": "4-8"
+    },
+    "tags": {
+      "en": [
+        "magic",
+        "ocean",
+        "wishes"
+      ],
+      "vi": [
+        "phép thuật",
+        "đại dương",
+        "điều ước"
+      ]
+    }
+  },
+  {
+    "id": "moon-rabbit",
+    "thumbnail": "/images/moon-rabbit.png",
+    "titles": {
+      "en": "The Rabbit on the Moon",
+      "vi": "Chú Thỏ Ngọc Trên Cung Trăng"
+    },
+    "descriptions": {
+      "en": "An Asian folktale about the rabbit who lives on the moon",
+      "vi": "Truyện dân gian Á Đông về chú thỏ sống trên mặt trăng"
+    },
+    "readingTimes": {
+      "en": "5",
+      "vi": "5"
+    },
+    "ageRanges": {
+      "en": "4-9",
+      "vi": "4-9"
+    },
+    "tags": {
+      "en": [
+        "folktale",
+        "asian",
+        "kindness"
+      ],
+      "vi": [
+        "truyện dân gian",
+        "châu á",
+        "tốt bụng"
+      ]
+    }
+  },
+  {
+    "id": "hundred-knot-bamboo",
+    "thumbnail": "/images/hundred-knot-bamboo.png",
+    "titles": {
+      "en": "The Hundred-Knot Bamboo",
+      "vi": "Cây Tre Trăm Đốt"
+    },
+    "descriptions": {
+      "en": "A Vietnamese folktale about perseverance and justice.",
+      "vi": "Truyện cổ tích Việt Nam về lòng kiên trì và sự công bằng."
+    },
+    "readingTimes": {
+      "en": "10",
+      "vi": "10"
+    },
+    "ageRanges": {
+      "en": "5-10",
+      "vi": "5-10"
+    },
+    "tags": {
+      "en": [
+        "vietnamese",
+        "folktale",
+        "justice"
+      ],
+      "vi": [
+        "Việt Nam",
+        "truyện cổ tích",
+        "công bằng"
+      ]
+    }
+  },
+  {
+    "id": "sheep-and-wolf",
+    "thumbnail": "/images/sheep-and-wolf.png",
+    "titles": {
+      "en": "The Sheep and the Wolf",
+      "vi": "Cậu Bé Chăn Cừu"
+    },
+    "descriptions": {
+      "en": "A classic tale about a sheep and a wolf",
+      "vi": "Câu chuyện cổ tích về cậu bé chăn cừu"
+    },
+    "readingTimes": {
+      "en": "7",
+      "vi": "7"
+    },
+    "ageRanges": {
+      "en": "4-8",
+      "vi": "4-8"
+    },
+    "tags": {
+      "en": [
+        "classic",
+        "adventure",
+        "fairy tale"
+      ],
+      "vi": [
+        "cổ tích",
+        "phiêu lưu",
+        "truyện cổ tích"
+      ]
+    }
+  }
+]

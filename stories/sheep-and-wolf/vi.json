@@ -1,18 +1,15 @@
 {
-  "id": "sheep-and-wolf",
-  "thumbnail": "/images/sheep-and-wolf.png",
-  "content": {
-    "vi": {
-      "title": "Cậu Bé Chăn Cừu",
-      "description": "Câu chuyện cổ tích về cậu bé chăn cừu",
-      "content": [
-        "Ngày xửa ngày xưa, ở một ngôi làng nọ có một cậu bé chăn cừu. Mỗi ngày, cậu đều dắt đàn cừu ra ngoài đồng để gặm cỏ xung quanh còn cậu thì nằm trên cánh đồng nhìn chúng. Công việc của cậu là chỉ cần canh chừng đàn cừu khỏi lũ sói đói và lùa đàn cừu trở về làng khi trời sụp tối. Việc chăn cứu cứ lặp đi lặp lại ngày này qua ngày khác như thế, nên cậu bé cảm thấy buồn chán trong lòng và quyết định nghĩ ra trò lừa mọi người trong làng một vố cho vui. Trước đó, người dân trong làng đã dặn cậu bé rằng nếu nhìn thấy đám sói đói kia xuất hiện thì hãy hét to lên để họ có thể chạy đến giúp cậu nhanh nhất.",
-        "Một ngày nọ, có một con sói hung dữ đang dần tiến xuống cánh đồng, đó là một con sói thật sự. Nó nhìn thấy đàn cừu đang gặm cỏ ngon lành bèn chạy xông vào. Cậu bé chưa bao giờ trông thấy một con sói nào lớn và hung tợn đến như vậy, cậu không biết mình phải làm gì để bảo vệ đàn cừu khỏi nguy hiểm. Lúc này cầu mới chạy thật nhanh về làng để cầu cứu, cậu vừa chạy vừa hét lớn: \"Sói! Có một con sói to! Có một con sói thật đang đến!\". Người dân trong làng ai cũng đều nghe thấy tiếng la hét đó, nhưng mọi người lại nghĩ đến việc bị lừa hai lần trước nên chẳng thèm quan tâm và vẫn tiếp tục ngồi trò chuyện về nhau.",
-        "Dù cậu bé đã dùng mọi lời nói cố gắng thuyết phục mọi người tin vào lời nói của mình, tin rằng lần này thật sự là một con sói to đã xuất hiện đang muốn ăn thịt đàn cừu. Nào ngờ họ mặc kệ cậu chỉ cười và bảo: \"Chắc thằng nhóc này lại bày trò để lừa chúng ta nữa đấy\". Thế là cậu bé đành bỏ cuộc và quay trở lại cánh đồng. Về đến nơi, cậu bé thấy đàn cừu của mình đã bị đám sói đói kia ăn thịt hết. Lúc này cậu bé mới ngồi xuống và bật khóc. Cậu biết rằng tất cả đều là lỗi của cậu. Cậu đã lừa mọi người trước và không ai còn tin một kẻ nói dối cả, thậm chí là khi kẻ đó đang nói thật."
-      ],
-      "readingTime": "7",
-      "ageRange": "4-8",
-      "tags": ["cổ tích", "phiêu lưu", "truyện cổ tích"]
-    }
-  }
+  "title": "Cậu Bé Chăn Cừu",
+  "description": "Câu chuyện cổ tích về cậu bé chăn cừu",
+  "content": [
+    "Ngày xửa ngày xưa, có một cậu bé chăn cừu...",
+    "Câu chuyện tiếp tục..."
+  ],
+  "readingTime": "7",
+  "ageRange": "4-8",
+  "tags": [
+    "cổ tích",
+    "phiêu lưu",
+    "truyện cổ tích"
+  ]
 }

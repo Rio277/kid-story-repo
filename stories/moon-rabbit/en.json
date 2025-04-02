@@ -1,1 +1,16 @@
-
+{
+  "title": "The Rabbit on the Moon",
+  "description": "An Asian folktale about the rabbit who lives on the moon",
+  "content": [
+    "Have you ever looked at the moon and seen the shape of a rabbit?...",
+    "This is the story of how the kind rabbit came to live on the moon...",
+    "Long ago, there was a rabbit who was friends with a fox and a monkey..."
+  ],
+  "readingTime": "5",
+  "ageRange": "4-9",
+  "tags": [
+    "folktale",
+    "asian",
+    "kindness"
+  ]
+}

@@ -1,1 +1,16 @@
-
+{
+  "title": "Chú Cá Vàng Thần Kỳ",
+  "description": "Câu chuyện về người đánh cá bắt được một chú cá thần kỳ",
+  "content": [
+    "Trong một làng chài nhỏ bên bờ biển, có một người đánh cá nghèo và vợ...",
+    "Một ngày nọ, ông bắt được một chú cá vàng biết nói...",
+    "Chú cá hứa sẽ thực hiện điều ước để đổi lấy tự do..."
+  ],
+  "readingTime": "6",
+  "ageRange": "4-8",
+  "tags": [
+    "phép thuật",
+    "đại dương",
+    "điều ước"
+  ]
+}
