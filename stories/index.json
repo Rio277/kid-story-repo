@@ -1,7 +1,7 @@
 [
   {
     "id": "little-red",
-    "thumbnail": "little-red.png",
+    "thumbnail": "images/little-red.png",
     "titles": {
       "en": "Little Red Riding Hood",
       "vi": "Cô Bé Quàng Khăn Đỏ"
@@ -33,7 +33,7 @@
   },
   {
     "id": "friendly-cat",
-    "thumbnail": "friendly-cat.png",
+    "thumbnail": "images/friendly-cat.png",
     "titles": {
       "en": "The Friendly Cat",
       "vi": "Chú Mèo Tốt Bụng"
@@ -65,7 +65,7 @@
   },
   {
     "id": "three-pigs",
-    "thumbnail": "three-pigs.png",
+    "thumbnail": "images/three-pigs.png",
     "titles": {
       "en": "The Three Little Pigs",
       "vi": "Ba Chú Heo Con"
@@ -97,7 +97,7 @@
   },
   {
     "id": "golden-fish",
-    "thumbnail": "golden-fish.png",
+    "thumbnail": "images/golden-fish.png",
     "titles": {
       "en": "The Magic Golden Fish",
       "vi": "Chú Cá Vàng Thần Kỳ"
@@ -129,7 +129,7 @@
   },
   {
     "id": "moon-rabbit",
-    "thumbnail": "moon-rabbit.png",
+    "thumbnail": "images/moon-rabbit.png",
     "titles": {
       "en": "The Rabbit on the Moon",
       "vi": "Chú Thỏ Ngọc Trên Cung Trăng"
@@ -161,7 +161,7 @@
   },
   {
     "id": "hundred-knot-bamboo",
-    "thumbnail": "hundred-knot-bamboo.png",
+    "thumbnail": "images/hundred-knot-bamboo.png",
     "titles": {
       "en": "The Hundred-Knot Bamboo",
       "vi": "Cây Tre Trăm Đốt"
@@ -193,7 +193,7 @@
   },
   {
     "id": "sheep-and-wolf",
-    "thumbnail": "sheep-and-wolf.png",
+    "thumbnail": "images/sheep-and-wolf.png",
     "titles": {
       "en": "The Sheep and the Wolf",
       "vi": "Cậu Bé Chăn Cừu"
