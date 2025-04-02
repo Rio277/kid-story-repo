@@ -1,0 +1,18 @@
+{
+  "id": "golden-fish",
+  "thumbnail": "/images/golden-fish.png",
+  "content": {
+    "en": {
+      "title": "The Magic Golden Fish",
+      "description": "A story about a fisherman who catches a magical fish",
+      "content": [
+        "In a small village by the sea lived a poor fisherman and his wife...",
+        "One day, he caught a beautiful golden fish that could speak...",
+        "The fish promised to grant wishes in exchange for freedom..."
+      ],
+      "readingTime": "6",
+      "ageRange": "4-8",
+      "tags": ["magic", "ocean", "wishes"]
+    }
+  }
+}

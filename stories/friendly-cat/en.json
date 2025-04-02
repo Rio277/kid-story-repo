@@ -1,0 +1,17 @@
+{
+  "id": "friendly-cat",
+  "thumbnail": "/images/friendly-cat.png",
+  "content": {
+    "en": {
+      "title": "The Friendly Cat",
+      "description": "A story about a friendly cat who helps others",
+      "content": [
+        "Once upon a time, there was a friendly cat...",
+        "The cat loved helping other animals..."
+      ],
+      "readingTime": "5",
+      "ageRange": "3-6",
+      "tags": ["animals", "friendship", "helping"]
+    }
+  }
+}
