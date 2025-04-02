@@ -1,17 +1,1 @@
-{
-  "id": "little-red",
-  "thumbnail": "/images/little-red.png",
-  "content": {
-    "en": {
-      "title": "Little Red Riding Hood",
-      "description": "A classic tale about a little girl's journey through the woods",
-      "content": [
-        "Once upon a time, there was a little girl who lived in a village near the forest...",
-        "She was called Little Red Riding Hood because of the red cloak she always wore..."
-      ],
-      "readingTime": "7",
-      "ageRange": "4-8",
-      "tags": ["classic", "adventure", "fairy tale"]
-    }
-  }
-}
+

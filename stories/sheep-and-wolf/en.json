@@ -1,17 +1,1 @@
-{
-  "id": "sheep-and-wolf",
-  "thumbnail": "/images/sheep-and-wolf.png",
-  "content": {
-    "en": {
-      "title": "The Sheep and the Wolf",
-      "description": "A classic tale about a sheep and a wolf",
-      "content": [
-        "Once upon a time, there was a sheep and a wolf...",
-        "The sheep was afraid of the wolf, so it stayed away from the wolf..."
-      ],
-      "readingTime": "7",
-      "ageRange": "4-8",
-      "tags": ["classic", "adventure", "fairy tale"]
-    }
-  }
-}
+
